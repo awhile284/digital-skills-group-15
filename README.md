@@ -4,9 +4,9 @@
 - **Tên nhóm:** Nhóm 15
 - **Lớp:** Nhập môn Ngành CNTT
 - **Thành viên:**
-  1. [Họ và tên 1] - MSSV: [12345678] (Trưởng nhóm)
-  2. [Họ và tên 2] - MSSV: [12345679]
-  3. [Họ và tên 3] - MSSV: [12345680]
+  1. Trần Thái Hoàng - MSSV: 2624802010115 (Trưởng nhóm)
+  2. Nguyễn Tấn Dũng - MSSV: 2624802010045
+  3. Hồ Tuấn Anh - MSSV: 2624802010005
 
 ## 2. Chủ đề thực hiện
 - **Chủ đề:** Xây dựng Không gian Học tập Số (Digital Learning Workspace) & Tìm hiểu Trí tuệ nhân tạo (AI).
